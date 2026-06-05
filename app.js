@@ -7,4 +7,8 @@ const [firscolor, secondcolor] = color;
 
 console.log(firscolor);
 
+
+
+
+
  
